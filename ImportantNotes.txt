@@ -1,0 +1,8 @@
+Having spring-cloud-starter-netflix-eureka-client on the classpath makes the app into both a Eureka “instance” (that is, it registers itself)
+and a “client” (it can query the registry to locate other services).
+
+From: https://cloud.spring.io/spring-cloud-netflix/multi/multi__service_discovery_eureka_clients.html
+
+By having spring-cloud-starter-netflix-eureka-client on the classpath, your application automatically registers with the Eureka Server.
+
+From: https://cloud.spring.io/spring-cloud-netflix/reference/html/
