@@ -1,0 +1,6 @@
+1. https://cloud.spring.io/spring-cloud-netflix/reference/html/
+2. https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html
+3. https://cloud.spring.io/spring-cloud-netflix/multi/multi__service_discovery_eureka_clients.html
+4. https://www.youtube.com/watch?v=jhvJg4tDrpw&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&index=20 (Follow JavaBrains tutorial)
+5. https://stackoverflow.com/questions/33921557/understanding-spring-cloud-eureka-server-self-preservation-and-renew-threshold/41775757
+6. https://stackoverflow.com/questions/32616329/eureka-never-unregisters-a-service
